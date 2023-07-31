@@ -1,0 +1,7 @@
+three types of errors :-
+
+1. syntax errors - (development time) compiler can handle these
+
+2. logical errors - (development time) (debugger) result not as expected
+
+3. runtime errors - user side (bad input, problem with resource)

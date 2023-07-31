@@ -1,0 +1,12 @@
+Abstraction - internal mechanism
+
+Encapsulation - prevent mishandling of data
+ 
+Inheritance - inherit data and properties
+
+Polymorphism - single object to represent different types
+
+class - blueprint of an object
+
+object - instance of a class
+
